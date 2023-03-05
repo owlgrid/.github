@@ -1,5 +1,7 @@
 # OwlGrid Repositories
 
+This organziation contains all code repositories of OwlGrid.
+
 ## Naming conventions
 
 Repositories are named as follows:
