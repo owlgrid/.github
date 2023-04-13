@@ -1,6 +1,6 @@
 # OwlGrid Repositories
 
-This organziation contains all code repositories of OwlGrid.
+This organization contains all code repositories of OwlGrid. For more information about the project, visit [docs.owlgrid.com](https://docs.owlgrid.com/)
 
 ## Naming conventions
 
